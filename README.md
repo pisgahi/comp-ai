@@ -1,6 +1,6 @@
-# Companion AI
+# Comp AI
 
-Companion AI is an interactive web application that allows users to create and interact with personalized chat companions, such as historical figures like Albert Einstein, for knowledge-based queries.
+Comp AI is an interactive web application that allows users to create and interact with personalized chat companions, such as historical figures like Albert Einstein, for knowledge-based queries.
 
 ## Getting Started
 
